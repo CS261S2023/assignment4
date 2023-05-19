@@ -1,13 +1,8 @@
 Assignment #4 
 
-**Due by 11:59pm on Wednesday, 5/12/2021**
-
-**Demo due by 11:59pm on Monday 5/26/2020**
 
 This assignment is intended to be relatively straightforward. Hopefully it
 will be easy for you, and boost your assignment grade!!!
-
-
 
 #1. (40pts) Write a subroutine to count the number of collisions for a hash table 
 that has been filled. You are given a declaration of a function here: 
